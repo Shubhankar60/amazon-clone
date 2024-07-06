@@ -1,1 +1,1 @@
-# amazon-clone
+# netfix clone frontend
